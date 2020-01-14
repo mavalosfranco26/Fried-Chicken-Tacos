@@ -9,5 +9,10 @@ I am from Mexico. I am currently 12 years old and I am in sixth grade at Sacred 
 # My Likes
 I really like dogs and I have one dog at home. I really like fried chicken and tacos. My favorite subject is French. i love learning a new language. I also enjoy eating, any food.
 
+
+# Go check out my mentors website ;)
+
+
+
 [# Alex Little](http://www.tweet-rewind.appspot.com)
 
