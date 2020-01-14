@@ -2,10 +2,9 @@
 I came to streetcode because my sister is a mentor and she introduced me to it.
 I want to make a website.
 
-### Markdown
+### About Myself
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I am from Mexico. I currently go to Sacred Heart Middle School.
 ```markdown
 Syntax highlighted code block
 
